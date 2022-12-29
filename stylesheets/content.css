@@ -1,0 +1,861 @@
+.main1{
+    margin: 0px;
+    padding: 0px;
+    background-color: #000;
+}
+.main{
+    width: 100%;  
+    height: 1100px;
+    background-color: black;
+    background-image:url('../img/icon-one.svg');
+    position: absolute;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0;
+}
+
+.content{
+    position: relative;
+    font-family: gilroy;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 152px;
+    padding-top: 410px;
+    overflow: hidden;
+    background: linear-gradient(90deg, rgb(0, 0, 0), #fff, #FF3FCB);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate 3s linear infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+
+  
+  @keyframes animate {
+    0% {
+      background-position: -500%;
+    }
+    100% {
+      background-position: 500%;
+    }
+  }
+  
+.mainone{
+width: 100%;
+height:700px;
+background-color: black;
+position: absolute;
+margin-top: 1100px;
+}
+
+.first{
+    width: 261px;
+    height:98px; 
+    margin-top: 65px;
+    margin-left: 48px;
+    background-color: black;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.schag{
+    color:white;
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 42px;
+   
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #FF3FCB;
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 0px;
+    
+}
+
+.circle1{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.one{
+padding-left: 32px;
+padding-top: 28px;
+}
+.oneone{
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 42px;
+    color: white;
+}
+.bokal{
+    width: 447px;
+    height:366px; 
+    margin-top: 90px;
+    background-color: black;
+    margin-left: 550px;
+    position: absolute;
+    display: flex;
+flex-direction: column;
+align-items: center;
+gap: 37px;
+    
+}
+
+.bokalodin{
+    color:white;
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 42px;
+
+    width: 315px;
+    height:52px; 
+    position: relative;
+    
+    
+}
+
+.bokal1{
+    color:white;
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 42px;
+
+}
+
+
+.second{
+   width: 499px;
+   height: 376px;
+   background-color: rgba(255, 63, 203, 0.09);
+   border-radius: 5%;
+   margin-top: 50px;
+   border: 1px solid #FF3FCB;
+   position: absolute;
+   margin-left: 1130px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   gap: 25px;
+    
+}
+.uroven{
+    color:white;
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 24px;
+    
+}
+.kartinka{
+    width: 447px;
+    height:277px; 
+    padding-top: 37px;
+    background-image:url('../img/icon-three.svg');
+    background-repeat: no-repeat;
+    
+}
+
+.icon{
+    width: 148px;
+    height:148px; 
+   
+    background-image:url('../img/icon-four.svg');
+    background-repeat: no-repeat;   
+}
+
+.datchik{
+    width: 148px;
+    height:50px; 
+    background-image:url('../img/icon-five.svg');
+    background-repeat: no-repeat;
+
+}
+/* ТРЕТИЙ БЛОК */
+
+.or{
+    height: 1200px;
+    background-color: #000;
+    position: absolute;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 2300px;
+    background-image:url('../img/thing.svg');
+    background-repeat: no-repeat;
+
+
+}
+.tanzen{
+  color:white;
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 42px;
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 760px;
+
+}
+
+/* датчик */
+
+.se{
+  width: 499px;
+  height: 376px;
+  background-color: rgba(255, 63, 203, 0.09);
+  border-radius: 5%;
+  margin-top: 50px;
+  border: 1px solid #FF3FCB;
+  position: absolute;
+  margin-left: 1130px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+   
+}
+.urov{
+   color:white;
+   font-family: gilroy;
+   font-weight: bold;
+   font-size: 24px;
+   
+}
+
+
+.ico{
+   width: 148px;
+   height:148px; 
+  
+   background-image:url('../img/proz.svg');
+   background-repeat: no-repeat;   
+}
+
+.datchi{
+   width: 148px;
+   height:50px; 
+   background-image:url('../img/noltri.svg');
+   background-repeat: no-repeat;
+
+}
+.third{
+    width: 261px;
+    height:98px; 
+    margin-top: 50px;
+    margin-left: 48px;
+    
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.schak{
+    color:white;
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 42px;
+   
+}
+
+.circlec{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #FF3FCB;
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 0px;
+    
+}
+
+.circle3{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.three{
+padding-left: 32px;
+padding-top: 28px;
+}
+.threethree{
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 42px;
+    color: white;
+}
+.thing{
+    height: 1000px;
+    padding-top: 100px;
+    background-image:url('../img/thing.svg');
+    background-repeat: no-repeat;  
+}
+/* БОКАЛЫ АНИМАЦИЯ */
+.wiredisc1 {
+    position: absolute;
+    width: 350px;
+    height: 265px;
+    left: 70px;
+    top: 200px;
+    background-image:url('../img/bokal.svg');
+    background-repeat: no-repeat;
+    animation-name: wirediscs1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}
+@keyframes wirediscs1{
+0% {
+  transform: rotateZ(-160deg) translateX(-28px);
+}
+50% {
+  transform: rotateZ(160deg) translateX(28px);
+}
+100% {
+  transform: rotateZ(-160deg) translateX(-28px);
+}
+}
+.wiredisc2 {
+    position: absolute;
+    width: 350px;
+    height: 265px;
+    left: 265px;
+    top: 300px;
+    background-image:url('../img/bokal1.svg');
+    background-repeat: no-repeat;
+    animation-name: wirediscs2;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}
+@keyframes wirediscs2{
+0% {
+  transform: rotateZ(-90deg) translateX(28px);
+}
+50% {
+  transform: rotateZ(90deg) translateX(-28px);
+}
+100% {
+  transform: rotateZ(-90deg) translateX(28px);
+}
+}
+
+.wiredisc3 {
+    position: absolute;
+    width: 350px;
+    height: 265px;
+    left: 675px;
+    top: 200px;
+    background-image:url('../img/bokal2.svg');
+    background-repeat: no-repeat;
+    animation-name: wirediscs3;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}
+@keyframes wirediscs3{
+0% {
+  transform: rotateY(30deg) translateX(86px);
+}
+50% {
+  transform: rotateY(-30deg) translateX(-86px);
+}
+100% {
+  transform: rotateY(30deg) translateX(86px);
+}
+}
+
+.wiredisc4 {
+    position: absolute;
+    width: 350px;
+    height: 265px;
+    left: 900px;
+    top: 300px;
+    background-image:url('../img/bokal3.svg');
+    background-repeat: no-repeat;
+    animation-name: wirediscs4;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}
+@keyframes wirediscs4{
+0% {
+  transform: rotateZ(90deg) translateX(-86px);
+}
+50% {
+  transform: rotateZ(-90deg) translateX(86px);
+}
+100% {
+  transform: rotateZ(90deg) translateX(-86px);
+}
+}
+
+.wiredisc5 {
+    position: absolute;
+    width: 350px;
+    height: 265px;
+    left: 1250px;
+    top: 300px;
+    background-image:url('../img/bokal4.svg');
+    background-repeat: no-repeat;
+    animation-name: wirediscs5;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}
+@keyframes wirediscs5{
+0% {
+  transform: rotateZ(160deg) translateX(-200px);
+}
+50% {
+  transform: rotateZ(-160deg) translateX(200px);
+}
+100% {
+  transform: rotateZ(160deg) translateX(-200px);
+}
+}
+/* БЛОК ЧЕТВЕРТЫЙ */
+  .begu {
+    height: 1100px;
+    color: red;
+    background-color: #000;
+    position: absolute;
+    text-transform: uppercase;
+    font-size: 154px;
+    font-weight: bold;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 3400px;
+  }
+  
+  .stroka1 {
+    padding-top: 150px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    animation: move 5s linear infinite alternate;
+    font-family: gilroy;
+  }
+  
+  @keyframes move {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-40%);
+    }
+  }
+
+  .ff{
+    width: 261px;
+    height:98px; 
+    margin-top: 0px;
+    margin-left: 600px;
+    background-color: black;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 180px;
+}
+.schag4{
+    color:white;
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 42px;
+   
+}
+
+.circlee{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #FF3FCB;
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 0px;
+    
+}
+
+.circle4{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.four{
+padding-left: 32px;
+padding-top: 28px;
+}
+.fourfour{
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 42px;
+    color: white;
+}
+.osta{
+    color:white;
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 42px;
+}
+/* ДИАГРАМА БЛОК */
+.dia{
+    height: 1200px;
+    background-color: #000;
+    position: absolute;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 4500px;
+    background-image:url('../img/diagram.svg');
+    background-repeat: no-repeat;
+}
+
+/* ПУЛЬСАЦИЯ ЧЕРНАЯ ДЫРА БЛОК */
+
+.pulsing{
+    height: 1000px;
+    background-color: #000;
+    position: absolute;
+    width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 5750px;
+   background-image:url('../img/grad.svg') ;
+   background-position: bottom center;
+   background-repeat: no-repeat;
+   
+}
+
+.pulse{
+position: relative;
+width: 350px;
+height: 350px;
+/* background: radial-gradient(#000 100% #000 93% #000 89% #F20E0E 17%); */
+/* background: radial-gradient(rgb(0, 0, 0), #fff, #FF3FCB); */
+background: radial-gradient(rgb(0, 0, 0), #f20e0e);
+border: #FFE13F 1px solid;
+border-radius: 50%;
+}
+.pulse span{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: inherit;
+    border-radius: inherit;
+    opacity: .8;
+    animation: pulseAnimate 4s ease-out infinite;
+    animation-delay: calc(1s * var(--i));
+}
+ @keyframes pulseAnimate{
+    100%{
+        opacity: 0;
+        transform: scale(2);
+    }
+ }
+
+.gorod{
+    height: 1305px;
+    background-color: #000;
+    position: absolute;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 6750px;
+    background-image:url('../img/gorod.svg');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+/* здесь второй блок находится */
+
+.test{
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  background-color: black;
+  margin-top: 1700px;
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.ssec{
+  width: 261px;
+  height:98px; 
+  margin-top: 50px;
+  margin-left: 48px;
+  background-color: black;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.schaс{
+  color:white;
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+ 
+}
+
+.circl{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #FF3FCB;
+  position: absolute;
+  margin-left: 130px;
+  margin-top: 0px;
+  
+}
+
+.circle2{
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.two{
+padding-left: 32px;
+padding-top: 28px;
+}
+.twotwo{
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+  color: white;
+}
+.boka{
+  width: 447px;
+  height:366px; 
+  margin-top: 90px;
+  background-color: black;
+  margin-left: 565px;
+  position: absolute;
+  display: flex;
+ flex-direction: column;
+align-items: center;
+gap: 37px;
+  
+}
+
+.kek{
+  width: 447px;
+  height:277px; 
+  margin-top: 175px;
+  background-image:url('../img/icon-three.svg');
+  background-repeat: no-repeat;
+}
+
+.bokaodin{
+  color:white;
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+
+  width: 180px;
+  height:52px; 
+  position: relative;
+  
+  
+}
+
+.bokal2{
+  color:white;
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+
+}
+
+
+.sec{
+ width: 499px;
+ height: 376px;
+ background-color: rgba(255, 63, 203, 0.09);
+ border-radius: 5%;
+ margin-top: 55px;
+ border: 1px solid #FF3FCB;
+ position: absolute;
+ margin-left: 1130px;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ gap: 25px;
+  
+}
+.ur{
+  color:white;
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 24px;
+  
+}
+.kartink{
+  width: 447px;
+  height:277px; 
+  padding-top: 37px;
+  background-image:url('../img/icon-three.svg');
+  background-repeat: no-repeat;
+  
+}
+
+.ic{
+  width: 148px;
+  height:148px; 
+ 
+  background-image:url('../img/kruk.svg');
+  background-repeat: no-repeat;   
+}
+
+.datch{
+  width: 148px;
+  height:50px; 
+  background-image:url('../img/nolodin.svg');
+  background-repeat: no-repeat;
+
+}
+
+/* здесь заканчивается второй блок */
+
+.zae{
+  width: 100%;
+  height: 150px;
+  position: absolute;
+  background-color:black;
+  margin-top: 5600px;
+}
+.fff{
+  width: 261px;
+  height:98px; 
+  margin-top: 50px;
+  margin-left: 640px;
+  background-color: black;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 180px;
+}
+.schag5{
+  color:white;
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+ 
+}
+
+.circli{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #FF3FCB;
+  position: absolute;
+  margin-left: 130px;
+  margin-top: 0px;
+  
+}
+
+.circle5{
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.five{
+padding-left: 32px;
+padding-top: 28px;
+}
+.fivefive{
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+  color: white;
+}
+.zatm{
+  color:white;
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+}
+.imya{
+  position: absolute;
+  font-family: gilroy;
+  font-weight: regular;
+  font-size: 30px;
+  padding-top: 1100px;
+  margin-left: 48px;
+  color: #fff;
+}
+.praktika{
+  position: absolute;
+  font-family: gilroy;
+  font-weight: regular;
+  font-size: 30px;
+  padding-top: 1100px;
+  margin-left: 1440px;
+  color: #fff;
+}
+/* .footer{
+  width: 100%;
+  height: 150px;
+  position: absolute;
+  background-color:red;
+  margin-top: 000px;
+} */
+
+.fi{
+  width: 540px;
+  height:98px; 
+  margin-top: 20px;
+  margin-left: 640px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 180px;
+}
+.schaa{
+  color:white;
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+ 
+}
+
+.circlep{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #FF3FCB;
+  position: absolute;
+  margin-left: 130px;
+  margin-top: 0px;
+  
+}
+
+.circle6{
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.six{
+padding-left: 32px;
+padding-top: 28px;
+}
+.sixsix{
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+  color: white;
+}
+.utrechko{
+  color:white;
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+}
